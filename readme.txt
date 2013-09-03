@@ -1,4 +1,4 @@
 Hello world,
 and fuck you!
 
-->fuck you too!;
+->I'm care about you...
